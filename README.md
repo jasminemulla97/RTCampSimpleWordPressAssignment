@@ -1,2 +1,2 @@
 # RTCampSimpleWordPressAssignment
-It is a simple wordpress assignment given by rtcamp for evaluation purpose
+It is a simple wordpress assignment given by rtcamp for evaluation purpose for recruitment purpose.
